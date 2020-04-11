@@ -1,0 +1,55 @@
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\GrpcServer.exe
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\GrpcServer.deps.json
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\GrpcServer.runtimeconfig.json
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\GrpcServer.runtimeconfig.dev.json
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\GrpcServer.dll
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\GrpcServer.pdb
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.csproj.CoreCompileInputs.cache
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.AssemblyInfoInputs.cache
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.AssemblyInfo.cs
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.RazorTargetAssemblyInfo.cache
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.csproj.CopyComplete
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\staticwebassets\GrpcServer.StaticWebAssets.Manifest.cache
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\staticwebassets\GrpcServer.StaticWebAssets.xml
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.dll
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.pdb
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.genruntimeconfig.cache
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\GrpcServer.exe
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\GrpcServer.deps.json
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\GrpcServer.runtimeconfig.json
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\GrpcServer.runtimeconfig.dev.json
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\GrpcServer.dll
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\GrpcServer.pdb
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.csprojAssemblyReference.cache
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.AssemblyInfoInputs.cache
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.AssemblyInfo.cs
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.RazorTargetAssemblyInfo.cache
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.csproj.CopyComplete
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\staticwebassets\GrpcServer.StaticWebAssets.Manifest.cache
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\staticwebassets\GrpcServer.StaticWebAssets.xml
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.dll
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.pdb
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.genruntimeconfig.cache
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.csproj.CoreCompileInputs.cache
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcServer\obj\Debug\netcoreapp3.1\GrpcServer.MvcApplicationPartsAssemblyInfo.cache

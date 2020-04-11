@@ -1,0 +1,37 @@
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.exe
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfoInputs.cache
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfo.cs
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csproj.CopyComplete
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.deps.json
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.runtimeconfig.json
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.runtimeconfig.dev.json
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.dll
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.pdb
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csproj.CoreCompileInputs.cache
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.dll
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.pdb
+D:\Programare\Visual Proiecte\CNA Tema1\CNA Tema1\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.genruntimeconfig.cache
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.exe
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.deps.json
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.runtimeconfig.json
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.runtimeconfig.dev.json
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.dll
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\GrpcClient.pdb
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcClient\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csproj.CoreCompileInputs.cache
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfoInputs.cache
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.AssemblyInfo.cs
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csproj.CopyComplete
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.dll
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.pdb
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.genruntimeconfig.cache
+D:\Programare\Visual Proiecte\CNA Tema1\GrpcClient\obj\Debug\netcoreapp3.1\GrpcClient.csprojAssemblyReference.cache

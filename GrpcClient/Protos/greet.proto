@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcServer";
+
+service Greet{
+	rpc PrintClientInput(ClientInputRequest) returns (EmptyMessage);
+}
+
+
+message EmptyMessage{
+
+}
+
+message ClientInputRequest{
+	string name=1;
+}
+
+
+
+
